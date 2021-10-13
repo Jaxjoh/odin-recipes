@@ -1,1 +1,1 @@
-# odin-recipes
+The current Project is to set up a repositry in Git-Hub and then commit the changes you've been making. You need to know how do you create a repository. How you make changes to the files. How to add and coomit them to your Git-Hub, so the things been stored.
