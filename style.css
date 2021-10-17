@@ -1,0 +1,27 @@
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    background-color: rgb(114, 175, 73);
+    color: white;
+}
+
+#center{
+    text-align: center;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.topic {
+    color: rgb(114, 175, 73);
+    font-size: 30px;
+}
+
+.eat {
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+    color: rgba(247,215,136);
+}
